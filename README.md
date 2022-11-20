@@ -9,6 +9,7 @@ A link to the free database: https://opentdb.com/api_config.php
 
 For Android Gradle (Java):
 These are the implementations for retrofit2 and Gson:
+
   implementation 'com.squareup.retrofit2:retrofit:2.1.0'
   implementation 'com.google.code.gson:gson:2.6.2'
   implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
