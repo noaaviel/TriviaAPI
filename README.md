@@ -21,7 +21,9 @@ These are the implementations for retrofit2 and Gson:
 ## Thanks
 
 Open Trivia Database
+
 Retrofit2 by Square Open Source
+
 Google Gson Library
 
 ## Contact Me
